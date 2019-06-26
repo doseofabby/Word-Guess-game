@@ -1,0 +1,21 @@
+body {
+    background: yellow;
+}
+
+p{
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center; 
+}
